@@ -1,0 +1,25 @@
+_repo: Toleration-and-other-essays_64858
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: MacCabe, Joseph
+    gutenberg_agent_id: '53079'
+    url: http://www.gutenberg.org/2009/agents/53079
+creator:
+  author:
+    agent_name: Voltaire, François-Marie Arouet
+    gutenberg_agent_id: '53078'
+    url: http://www.gutenberg.org/2009/agents/53078
+description: ''
+gutenberg_issued: '2021-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Toleration and other essays
+url: http://www.gutenberg.org/ebooks/64858
