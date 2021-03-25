@@ -5,12 +5,17 @@ contributor:
     agent_name: MacCabe, Joseph
     gutenberg_agent_id: '53079'
     url: http://www.gutenberg.org/2009/agents/53079
+covers:
+- cover_type: archival
+  image_path: 64858-h/images/cover.jpg
 creator:
   author:
     agent_name: Voltaire, François-Marie Arouet
     gutenberg_agent_id: '53078'
     url: http://www.gutenberg.org/2009/agents/53078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64858#Toleration-and-other-essays
 gutenberg_issued: '2021-03-18'
 gutenberg_type: Text
 identifiers:
